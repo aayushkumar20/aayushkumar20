@@ -30,27 +30,39 @@
 - ⚡ Fun fact: I love to driving and playing with cats / dogs.
 
 **Languages and Tools:**  
+<hr>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
+<code><img height="25" src="https://www.dlf.pt/dfpng/middlepng/559-5598467_file-swift-logo-svg-wikimedia-commons-swift-programming.png"></code>
+<code><img height="25" src="https://th.bing.com/th/id/OIP.0XWe-l9BGbxRxksGkqAHCAHaGn?pid=ImgDet&rs=1"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+<code><img height="25" src="https://th.bing.com/th/id/R.95e08e2d98526849bbf0606536a04acf?rik=aw7pCN3NbibFCg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2014%2f10%2fLinux-logo.png&ehk=6ThG0axMBgrGFKzDw6C77t96N9KUiWuKiQbvxau%2bn1s%3d&risl=&pid=ImgRaw&r=0"></code>
+<code><img height="25" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
+<code><img height="25" src="https://cdn-images-1.medium.com/max/2000/1*6ahbWjp_g9hqhaTDSJOL1Q.png"></code>
+<code><img height="25" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"></code>
+<code><img height="25" src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg"></code>
+<code><img height="25" src="https://f0.pngfuel.com/png/120/705/c-logo-png-clip-art.png"></code>
+<code><img height="25" src="https://th.bing.com/th/id/OIP.p4q0GhB5KUBWW3QHJ4cWQwHaIl?pid=ImgDet&rs=1"></code>
+<code><img height="25" src="https://th.bing.com/th/id/OIP._gup-xIt_rg0OzpxRjhIxQHaHa?pid=ImgDet&rs=1"></code>
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
-<code><img height="20" src="https://www.dlf.pt/dfpng/middlepng/559-5598467_file-swift-logo-svg-wikimedia-commons-swift-programming.png"></code>
-<code><img height="20" src="https://th.bing.com/th/id/OIP.0XWe-l9BGbxRxksGkqAHCAHaGn?pid=ImgDet&rs=1"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-<code><img height="20" src="https://th.bing.com/th/id/R.95e08e2d98526849bbf0606536a04acf?rik=aw7pCN3NbibFCg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2014%2f10%2fLinux-logo.png&ehk=6ThG0axMBgrGFKzDw6C77t96N9KUiWuKiQbvxau%2bn1s%3d&risl=&pid=ImgRaw&r=0"></code>
-<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="20" src="https://cdn-images-1.medium.com/max/2000/1*6ahbWjp_g9hqhaTDSJOL1Q.png"></code>
-<code><img height="20" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"></code>
-<code><img height="20" src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg"></code>
-<code><img height="20" src="https://f0.pngfuel.com/png/120/705/c-logo-png-clip-art.png"></code>
-<code><img height="20" src="https://th.bing.com/th/id/OIP.p4q0GhB5KUBWW3QHJ4cWQwHaIl?pid=ImgDet&rs=1"></code>
-<code><img height="20" src="https://th.bing.com/th/id/OIP._gup-xIt_rg0OzpxRjhIxQHaHa?pid=ImgDet&rs=1"></code>
+<hr>
+<br>
 
-<a href="https://github.com/aayushkumar20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushkumar20&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/aayushkumar20">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushkumar20&show_icons=true&theme=light&line_height=27" alt="Aayush's github stats"/>
-</a>
+## Details about my works.
+
 <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aayushkumar20)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushkumar20)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushkumar20&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aayushkumar20)  
+
+![GitHub metrics](https://metrics.lecoq.io/aayushkumar20)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aayushkumar20)  
+
 
 ### Show some ❤️ by starring some of the repositories!
 
