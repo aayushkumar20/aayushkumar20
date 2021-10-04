@@ -46,7 +46,6 @@
 
 <hr>
 <br>
-
 ## Details about my works.
 
 <div align="center">
