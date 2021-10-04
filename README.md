@@ -28,6 +28,12 @@
 - 👯 I’m looking to collaborate with other linux and open source projects.
 - 🥅 2021-22 Goals: Contribute more to Open Source projects and data server based projects.
 - ⚡ Fun fact: I love to driving and playing with cats / dogs.
+- Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+
+## Things I am passionate about
+
+- Android :robot:
+- Open source :octocat:
 
 **Languages and Tools:**  
 <hr>
@@ -66,3 +72,5 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+<!-- to ignore syntax -->
