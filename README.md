@@ -45,7 +45,7 @@
 <code><img height="25" src="https://th.bing.com/th/id/OIP._gup-xIt_rg0OzpxRjhIxQHaHa?pid=ImgDet&rs=1"></code>
 
 <hr>
-<br>
+
 ## Details about my works.
 
 <div align="center">
