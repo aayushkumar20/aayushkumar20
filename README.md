@@ -29,23 +29,25 @@
 ## Connnect with me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://twitter.com/Aayushkumarjsr">
-<img align="left" alt="Aayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Aayush's Twitter" width="22px" src="https://th.bing.com/th/id/R.9a3a06f78cc0a8d79fce59e2de6da146?rik=nLAu3Z%2f0QUb%2fVw&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fiynque%2fios7-style%2f1024%2fTwitter-icon.png&ehk=eD3Hc5yQAyP3AKPJoYHB8yeWKwKdaVAswR5kxmodex4%3d&risl=&pid=ImgRaw&r=0" />
 </a>
 <a href="www.linkedin.com/in/aayush-kumar-20">
-  <img align="left" alt="Aayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aayush's Linkdein" width="22px" src="https://th.bing.com/th/id/R.a330e248626552a23af35e5c46526234?rik=DZhkgnpER0YViQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG8.png&ehk=4bFzIDABrAypqOis7809R99fdbUW93GC4XfvnNxZfdA%3d&risl=&pid=ImgRaw&r=0" />
 </a>
 <a href="https://github.com/aayushkumar20">
-  <img align="left" alt="Aayush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Aayush's Github" width="22px" src="https://th.bing.com/th/id/OIP.PA0na-U5pFux0q11P4Z2rAHaHa?pid=ImgDet&rs=1" />
 </a>
 <a href="https://t.me/@Asphalt_a">
-  <img align="left" alt="Aayush's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Aayush's Telegram" width="22px" src="https://th.bing.com/th/id/OIP.wFWRVqVsMXhnyoYtiKmdZwHaHa?pid=ImgDet&rs=1" />
 </a>
 <a href="https://www.instagram.com/a.k_soonawalla/?r=nametag">
-  <img align="left" alt="Aayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Aayush's Instagram" width="22px" src="https://th.bing.com/th/id/R.03f40b67b63d9c1c1a5a792109bbc699?rik=GbXemMJT0MR0zw&riu=http%3a%2f%2fdbdmedia.co.uk%2fperch%2fresources%2finsta-transparent-logo.png&ehk=IgOWdaM%2fubF4QwM2WNq7zh97LJMVFQ9SD1A4Jv3HI9Y%3d&risl=&pid=ImgRaw&r=0" />
 </a>
 <br>
 
+
 😉 From [Aayush Kumar](https://github.com/aayushkumar20)
+
 
 <br>
 
