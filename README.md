@@ -32,7 +32,8 @@
 
 ## Things I am passionate about
 
-- Android :robot:
+- IOT :robot:
+- Linux :computer:
 - Open source :octocat:
 
 **Languages and Tools:**  
