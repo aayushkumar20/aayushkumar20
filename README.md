@@ -1,7 +1,35 @@
-## Hola, I'm [Aayush Kumar](https://aayushkumar20.github.io/) 👋
+## Hola, I'm [Aayush Kumar](https://aayushkumar20.github.io/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
+<br/>
+<br/>
+
+## I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!
+
+<!-- About me image -->
+<img src='https://raw.githubusercontent.com/aayushkumar20/aayushkumar20.github.io/main/images/thumbs/01.jpg' align='left' width='27%'>
+<br>
+
+- 🔭 I’m currently working on [Arch linux](https://archlinux.org//).
+- 🔭 I just launched my Home based Linux server!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other linux and open source projects.
+- 🥅 2021-22 Goals: Contribute more to Open Source projects and data server based projects.
+- ⚡ Fun fact: I love to driving and playing with cats / dogs.
+- Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+- Caffeine Addicted 😜.
+<br>
+<br> 
+
+## Things I am passionate about
+
+- IOT :robot:
+- Linux :computer:
+- Open source :octocat:
+
+## Connnect with me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://twitter.com/Aayushkumarjsr">
-  <img align="left" alt="Aayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Aayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="www.linkedin.com/in/aayush-kumar-20">
   <img align="left" alt="Aayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,28 +43,16 @@
 <a href="https://www.instagram.com/a.k_soonawalla/?r=nametag">
   <img align="left" alt="Aayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br>
 
-<br/>
-<br/>
+😉 From [Aayush Kumar](https://github.com/aayushkumar20)
 
-## I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!
+<br>
 
 
-- 🔭 I’m currently working on [Arch linux](https://archlinux.org//).
-- 🔭 I just launched my Home based Linux server!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other linux and open source projects.
-- 🥅 2021-22 Goals: Contribute more to Open Source projects and data server based projects.
-- ⚡ Fun fact: I love to driving and playing with cats / dogs.
-- Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+## Languages and Tools:
 
-## Things I am passionate about
 
-- IOT :robot:
-- Linux :computer:
-- Open source :octocat:
-
-**Languages and Tools:**  
 <hr>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
 <code><img height="25" src="https://www.dlf.pt/dfpng/middlepng/559-5598467_file-swift-logo-svg-wikimedia-commons-swift-programming.png"></code>
@@ -53,9 +69,42 @@
 
 <hr>
 
-## Details about my works.
+## GitHub Stats.
 
-<div align="center">
+
+<table width="100%"> 
+  <tr>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=aayushkumar20&show_icons=true&theme=algolia">
+    </td>
+    <td width="30%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aayushkumar20&layout=compact&langs_count=8&theme=algolia">
+    </td>
+    <td width="30%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushkumar20&amp;langs_count=8&amp;theme=algolia">
+    </td>
+  </tr>
+</table>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class CSE_Student:
+    def __init__(self):
+        self.name    = "Aayush Kumar"
+        self.role    = "Student"
+        self.contact = "aayushkumarjsr16@protonmail.com"
+        self.work    = "I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!"
+        self.learn   = "iOS Development"
+    
+    def getCity():
+        return Jamshedpur()
+
+me = Student 😅
+```
+
+<!--<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aayushkumar20)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -68,6 +117,13 @@
 ![GitHub metrics](https://metrics.lecoq.io/aayushkumar20)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aayushkumar20)  
+-->
+
+
+[![Graph](https://activity-graph.herokuapp.com/graph?username=aayushkumar20&theme=react-dark)](https://github.com/aayushkumar20/github-readme-activity-graph)
+
+
+<div align="center">
 
 
 ### Show some ❤️ by starring some of the repositories!
