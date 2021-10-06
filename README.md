@@ -1,4 +1,4 @@
-## Hola, I'm [Aayush Kumar](https://aayushkumar20.github.io/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Hola, I'm [Aayush](https://aayushkumar20.github.io/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <br/>
 <br/>
