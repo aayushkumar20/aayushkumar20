@@ -2,21 +2,22 @@
 
 
 <br/>
-<br/>
+<!--<br/>-->
 
 ## I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!
 
 <!-- About me image -->
 <img src='https://raw.githubusercontent.com/aayushkumar20/aayushkumar20.github.io/main/images/thumbs/01.jpg' align='left' width='27%'>
-<br>
 
-- 🔭 I’m currently working on [Arch linux](https://archlinux.org//).
-- 🔭 I just launched my Home based Linux server!
+
+- 🔭 I’m currently learning and working on [Arch linux](https://archlinux.org//).
+- 💻 I have made a complete Home based Linux server!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other linux and open source projects.
 - 🥅 2021-22 Goals: Contribute more to Open Source projects and data server based projects.
 - ⚡ Fun fact: I love to driving and playing with cats / dogs.
-- Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+- Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and :coffee: lover. 
+- Linux is :heart:
 - Caffeine Addicted 😜.
 <br>
 <br> 
@@ -101,12 +102,12 @@ class CSE_Student:
         self.work       = "I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!"
         self.learning   = "iOS Development"
     
-    def getCity():
-        return Jamshedpur()
+    def getLocation():
+        return localhost:8080()
 
-me = Student 😅
+me = Engineering Student 😅
 ```
-
+<!-- Jamshedpur() -->
 <!--<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aayushkumar20)](https://github.com/ryo-ma/github-profile-trophy)
