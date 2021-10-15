@@ -94,11 +94,11 @@
 
 class CSE_Student:
     def __init__(self):
-        self.name    = "Aayush Kumar"
-        self.role    = "Student"
-        self.contact = "aayushkumarjsr16@protonmail.com"
-        self.work    = "I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!"
-        self.learn   = "iOS Development"
+        self.name       = "Aayush Kumar"
+        self.role       = "Student"
+        self.contact    = "aayushkumarjsr16@protonmail.com"
+        self.work       = "I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!"
+        self.learning   = "iOS Development"
     
     def getCity():
         return Jamshedpur()
