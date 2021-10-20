@@ -33,7 +33,7 @@
 <a href="https://twitter.com/Aayushkumarjsr">
 <img align="left" alt="Aayush's Twitter" width="22px" src="https://th.bing.com/th/id/R.9a3a06f78cc0a8d79fce59e2de6da146?rik=nLAu3Z%2f0QUb%2fVw&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fiynque%2fios7-style%2f1024%2fTwitter-icon.png&ehk=eD3Hc5yQAyP3AKPJoYHB8yeWKwKdaVAswR5kxmodex4%3d&risl=&pid=ImgRaw&r=0" />
 </a>
-<a href="www.linkedin.com/in/aayush-kumar-20">
+<a href="linkedin.com/in/aayush-kumar-20">
   <img align="left" alt="Aayush's Linkdein" width="22px" src="https://th.bing.com/th/id/R.a330e248626552a23af35e5c46526234?rik=DZhkgnpER0YViQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG8.png&ehk=4bFzIDABrAypqOis7809R99fdbUW93GC4XfvnNxZfdA%3d&risl=&pid=ImgRaw&r=0" />
 </a>
 <a href="https://github.com/aayushkumar20">
