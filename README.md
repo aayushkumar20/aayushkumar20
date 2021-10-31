@@ -15,19 +15,21 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other linux and open source projects.
 - 🥅 2021-22 Goals: Contribute more to Open Source projects and data server based projects.
-- ⚡ Fun fact: I love to driving and playing with cats / dogs.
+- ⚡ Fun fact: I love to driving and playing with cats.
 - Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and :coffee: lover. 
 - Linux is :heart:
 - Caffeine Addicted 😜.
 <br>
 <br> 
 
-## Things I am passionate about
+## Things I am passionate about <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">.
 
 - IOT :robot:
 - Linux :computer:
 - Open source :octocat:
+- Raspberry Pi 🖥️
 
+<!--
 ## Connnect with me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://twitter.com/Aayushkumarjsr">
@@ -50,13 +52,93 @@
 
 😉 From [Aayush Kumar](https://github.com/aayushkumar20)
 
-
+-->
 <br>
 
+## Languages and tools (Expand to View)
 
+<details>
+  <summary><b>Programing languages.</b></summary>
+  <br/>
+    <p align="left">
+  &emsp;
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://swift.org/" target="_blank">
+     <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%232370ED.svg?logo=Swift&logoColor=white">
+   </a>
+  &emsp;
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+&emsp;
+</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+
+<details>
+  <summary><b>Frontend development</b></summary>
+   <a href="https://www.w3.org/html/" target="_blank">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a>
+   &emsp;
+   &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+   &emsp;
+
+</details>
+
+<details>
+  <summary><b>Servers, Web Hosting and NAS based storage.</b></summary>
+   &emsp;
+  <a href="https://httpd.apache.org/"><img alt="Apache server." src="https://img.shields.io/badge/Apache%20Server-%23327FC7.svg?style=flat&logo=apache&logoColor=white"></a>
+   &emsp;
+  <a href="https://www.debian.org/"><img alt="Debian" src="https://img.shields.io/badge/Debain%20Server-%23327FC7.svg?style=flat&logo=Debian&logoColor=white"></a>
+   &emsp;
+   <a href="https://www.Ubuntu.org/"><img alt="Debian" src="https://img.shields.io/badge/Ubuntu%20Server-%23327FC7.svg?style=flat&logo=Ubuntu&logoColor=white"></a>
+   &emsp;
+  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+   &emsp;
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.nginx.com/"><img alt="Nginx" src="https://img.shields.io/badge/Nginx%20Server-%23327FC7.svg?style=flat&logo=Nginx&logoColor=white"></a>
+  &emsp;
+  
+
+</details>
+
+<details>
+  <summary><b>Graphics designing.</b></summary>
+  &emsp;
+  <a href="https://www.blender.org/"><img alt="Blender" src="https://img.shields.io/badge/Blender-%23327FC7.svg?style=flat&logo=Blender&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.canva.com/"><img alt="Canva" src="https://img.shields.io/badge/Canva-%23327FC7.svg?style=flat&logo=canva&logoColor=white"></a>
+  &emsp;
+
+
+</details>
+
+<!--
 ## Languages and Tools:
 
-
+<div align="center">
 <hr>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
 <code><img height="25" src="https://www.dlf.pt/dfpng/middlepng/559-5598467_file-swift-logo-svg-wikimedia-commons-swift-programming.png"></code>
@@ -72,7 +154,8 @@
 <code><img height="25" src="https://th.bing.com/th/id/OIP._gup-xIt_rg0OzpxRjhIxQHaHa?pid=ImgDet&rs=1"></code>
 
 <hr>
-
+</div>
+-->
 ## GitHub Stats.
 
 
@@ -127,11 +210,23 @@ me = Engineering Student 😅
 [![Graph](https://activity-graph.herokuapp.com/graph?username=aayushkumar20&theme=react-dark)](https://github.com/aayushkumar20/github-readme-activity-graph)
 
 
-<div align="center">
 
+## Connnect with me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<p align="center">
+  <a href="http://aayushkumar20.github.io/"><img src="https://cdn-icons-png.flaticon.com/512/2644/2644478.png" height="31px"/></a>
+        <a href="mailto:aayushkumarjsr16@protonmail.com"><img src="https://maxcdn.icons8.com/Share/icon/nolan/User_Interface/email1600.png" alt="Gmail" height="32px"/></a>
+        <a href="https://github.com/aayushkumar20"><img src="https://img.icons8.com/nolan/452/github.png" alt="GitHub" height="32px"/></a>
+        <a href="https://twitter.com/Aayushkumarjsr"><img src="https://consideringapple.com/wp-content/uploads/2021/12/twitter-App-Icon-ios-14-widgets.png" alt="Twitter" height="32px"/></a>
+        <a href="https://www.hackerearth.com/@aayushkumarjsr1"><img src="https://maxcdn.icons8.com/Share/icon/nolan/Programming/source_code1600.png" alt="HackerEarth" height="32px"/></a>
+  <!--<a href="https://instagram.com/pra3ith"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>-->
+
+
+</p>
+<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
 
+![](https://th.bing.com/th/id/R.8c089d8bc5c454ed37d8193397159f76?rik=Du9yMSlAmXKatQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fblack-and-white-city-png-city-png-picture-4963.png&ehk=P%2fZz6HKxn5eT3nj3YEqQ8TsdQZhiGlMrsYJdFRBSktY%3d&risl=&pid=ImgRaw&r=0)
 <!-- to ignore syntax -->
