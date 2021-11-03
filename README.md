@@ -135,6 +135,29 @@
 
 </details>
 
+<details>
+  <summary><b>Community and version controls.</b></summary>
+  &emsp;
+  <a href="https://git.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"></a>
+  &emsp;
+  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
+  &emsp;
+  <a href=""><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"></a>
+  &emsp;
+</details>
+
+<details>
+  <summary><b>IDEs.</b></summary>
+  &emsp;
+ <a href="https://code.visualstudio.com/"><img alt="Visual studio code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
+  &emsp;
+ <a href="https://visualstudio.microsoft.com/"><img alt="Visual studio" src="https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC"></a>
+  &emsp;
+  <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCham" src="https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC"></a>
+
+
+</details>
+
 <!--
 ## Languages and Tools:
 
@@ -184,6 +207,7 @@ class CSE_Student:
         self.contact    = "aayushkumarjsr16@protonmail.com"
         self.work       = "I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!"
         self.learning   = "iOS Development"
+        
     
     def getLocation():
         return localhost:8080()
