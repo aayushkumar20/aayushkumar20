@@ -158,6 +158,17 @@
 
 </details>
 
+<details>
+  <summary><b>Operating Systems</b></summary>
+  &emsp;
+  <a href="https://www.microsoft.com/en-in/windows/windows-11"><img alt="Windows 11" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+  &emsp;
+  <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+  &emsp;
+  <a href="https://ubuntu.org"><img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"></a>
+  &amsp;
+  </details>
+
 <!--
 ## Languages and Tools:
 
