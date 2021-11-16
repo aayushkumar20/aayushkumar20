@@ -127,7 +127,7 @@
 <details>
   <summary><b>Graphics designing.</b></summary>
   &emsp;
-  <a href="https://www.blender.org/"><img alt="Blender" src="https://img.shields.io/badge/Blender-%23327FC7.svg?style=flat&logo=Blender&logoColor=white"></a>
+  <a href="https://www.blender.org/"><img alt="Blender" src="https://download.blender.org/branding/blender_logo_socket.png" height="30px"></a>
   &emsp;
   <a href="https://www.canva.com/"><img alt="Canva" src="https://img.shields.io/badge/Canva-%23327FC7.svg?style=flat&logo=canva&logoColor=white"></a>
   &emsp;
