@@ -167,6 +167,8 @@
   &emsp;
   <a href="https://ubuntu.org"><img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"></a>
   &emsp;
+  <a href="https://www.apple.com/in/macos/monterey/"><img alt="MacOS" src="https://img.shields.io/badge/MacOS-E95420?style=for-the-badge&logo=apple&logoColor=black"></a>
+  &emsp;
   </details>
 
 <!--
