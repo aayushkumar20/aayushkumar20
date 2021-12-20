@@ -10,9 +10,8 @@
 <img src='https://raw.githubusercontent.com/aayushkumar20/aayushkumar20.github.io/main/images/thumbs/01.jpg' align='left' width='27%'>
 
 
-- 🔭 I’m currently learning and working on [Arch linux](https://archlinux.org//).
-- 💻 I have made a complete Home based Linux server!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently learning [Arch linux](https://archlinux.org//) and [swift programing](https://www.swift.org).
+- 🌱 Currently learning everything 🤣
 - 👯 I’m looking to collaborate with other linux and open source projects.
 - 🥅 2021-22 Goals: Contribute more to Open Source projects and data server based projects.
 - ⚡ Fun fact: I love to driving and playing with cats.
