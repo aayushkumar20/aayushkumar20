@@ -19,6 +19,7 @@
 - Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and :coffee: lover. 
 - Linux is :heart:
 - Caffeine Addicted 😜.
+- VIT BHOPAL '24
 <br>
 <br> 
 
