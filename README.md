@@ -13,7 +13,7 @@
 - 🔭 I’m currently learning [Arch linux](https://archlinux.org//) and [swift programing](https://www.swift.org).
 - 🌱 Currently learning everything 🤣
 - 👯 I’m looking to collaborate with other linux and open source projects.
-- 🥅 2021-22 Goals: Contribute more to Open Source projects and data server based projects.
+- 🥅 2022-23 Goals: Contribute more to Open Source projects and data server based projects.
 - ⚡ Fun fact: I love to driving and playing with cats.
 - Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and :coffee: lover. 
 - Linux is :heart:
