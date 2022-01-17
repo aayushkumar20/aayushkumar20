@@ -4,7 +4,7 @@
 <br/>
 <!--<br/>-->
 
-## I'm a Student, Web Developer, iOS Developer, Crypto Miner and a Cyber Security enthusiast!!
+## I'm a Student, iOS Developer, Crypto Miner and a Cyber Security enthusiast!!
 
 <!-- About me image -->
 <img src='https://raw.githubusercontent.com/aayushkumar20/aayushkumar20.github.io/main/images/thumbs/01.jpg' align='left' width='27%'>
