@@ -4,7 +4,7 @@
 <br/>
 <!--<br/>-->
 
-## I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!
+## I'm a Student, Web Developer, iOS Developer, Crypto Miner and a Cyber Security enthusiast!!
 
 <!-- About me image -->
 <img src='https://raw.githubusercontent.com/aayushkumar20/aayushkumar20.github.io/main/images/thumbs/01.jpg' align='left' width='27%'>
@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently learning [Arch linux](https://archlinux.org//) and [swift programing](https://www.swift.org).
 - 🌱 Currently learning everything 🤣
-- 👯 I’m looking to collaborate with other linux and open source projects.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and data server based projects.
-- ⚡ Fun fact: I love to driving and playing with cats.
+- 👯 I’m looking to collaborate with other machine learning and open source projects.
+- 🥅 2022-23 Goals: Contribute more to Open Source projects and machine learning projects.
+- ⚡ Fun fact: I am mining [ethereum](https://ethereum.org/en) and [xmr coin](https://www.getmonero.org) on my [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-4-model-b) cluster and [Nvidia Quadro T1000 Graphics card](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/productspage/quadro/quadro-desktop/proviz-print-nvidia-T1000-datasheet-us-nvidia-1670054-r4-web.pdf).
 - Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and :coffee: lover. 
 - Linux is :heart:
 - Caffeine Addicted 😜.
@@ -28,6 +28,8 @@
 - Linux :computer:
 - Open source :octocat:
 - Raspberry Pi 🖥️
+- Crypto Mining ⛏
+- Machine learning 🦾
 
 <!--
 ## Connnect with me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
