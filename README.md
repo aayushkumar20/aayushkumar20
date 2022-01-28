@@ -7,7 +7,7 @@
 ## I'm a Student, iOS Developer, Crypto Miner and Cyber Security enthusiast!!
 
 <!-- About me image -->
-<img src='https://raw.githubusercontent.com/aayushkumar20/aayushkumar20.github.io/main/images/thumbs/01.jpg' align='left' width='27%'>
+<img src='https://github.com/aayushkumar20/aayushkumar20/blob/main/aayush.jpg' align='left' width='27%'>
 
 
 - 🔭 I’m currently learning [Arch linux](https://archlinux.org//) and [swift programing](https://www.swift.org).
