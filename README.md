@@ -10,7 +10,7 @@
 <img src='https://github.com/aayushkumar20/aayushkumar20/blob/main/aayush.jpg' align='left' width='27%'>
 
 
-- 🔭 I’m currently learning [Arch linux](https://archlinux.org//) and [swift programing](https://www.swift.org).
+- 💗 to solve DSA problems on [LeetCode](https://leetcode.com/aayushkumar20/).
 - 🌱 Currently learning everything 🤣
 - 👯 I’m looking to collaborate with other machine learning and open source projects.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and machine learning projects.
