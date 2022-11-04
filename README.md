@@ -26,6 +26,7 @@
 ## Things I am passionate about <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">.
 
 - IOT :robot:
+- iOS Development 🍎
 - Linux :computer:
 - Open source :octocat:
 - Raspberry Pi 🖥️
@@ -71,6 +72,10 @@
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.java.com/en/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2300599C.svg?logo=Java&logoColor=white">
   </a>
   &emsp;
   <a href="https://swift.org/" target="_blank">
