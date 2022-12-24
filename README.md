@@ -7,8 +7,9 @@
 ## I'm a Student, iOS Developer, Crypto Miner and Machine Learning Enthusiast 🤖 !!
 
 <!-- About me image -->
+<!--
 <img src='https://github.com/aayushkumar20/aayushkumar20/blob/main/aayush.jpg' align='left' width='27%'>
-
+-->
 
 - 💗 to solve DSA problems on [LeetCode](https://leetcode.com/aayushkumar20/).
 - 🌱 Currently learning everything 🤣
