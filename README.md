@@ -14,7 +14,7 @@
 - 💗 to solve DSA problems on [LeetCode](https://leetcode.com/aayushkumar20/).
 - 🌱 Currently learning everything 🤣
 - 👯 I’m looking to collaborate with other machine learning and open source projects.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and machine learning projects.
+- 🥅 2023-24 Goals: Improve my skills and make some amazing iOS Apps.
 - 💻 Learning something new everyday.
 - 🔭 Looking for ML and Deep Learning projects.
 - Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and :coffee: lover. 
