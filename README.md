@@ -4,7 +4,7 @@
 <br/>
 <!--<br/>-->
 
-## I'm a Student, iOS Developer, Crypto Miner and Machine Learning Enthusiast 🤖 !!
+## I'm a Student, iOS Developer, DSA Lover and Machine Learning Enthusiast 🤖 !!
 
 <!-- About me image -->
 <!--
