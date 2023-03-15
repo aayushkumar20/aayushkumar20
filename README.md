@@ -253,11 +253,11 @@ me = Engineering Student 😅
 -->
 
 
-[![Graph](https://activity-graph.herokuapp.com/graph?username=aayushkumar20&theme=react-dark)](https://github.com/aayushkumar20/github-readme-activity-graph)
+<!--[![Graph](https://activity-graph.herokuapp.com/graph?username=aayushkumar20&theme=react-dark)](https://github.com/aayushkumar20/github-readme-activity-graph)-->
 
 
 
-## Connnect with me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<!--## Connnect with me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="center">
   <a href="http://aayushkumar20.github.io/"><img src="https://cdn-icons-png.flaticon.com/512/2644/2644478.png" height="31px"/></a>
         <a href="mailto:aayushkumarjsr16@protonmail.com"><img src="https://maxcdn.icons8.com/Share/icon/nolan/User_Interface/email1600.png" alt="Gmail" height="32px"/></a>
