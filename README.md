@@ -4,7 +4,7 @@
 <br/>
 <!--<br/>-->
 
-## I'm a Student, iOS Developer, DSA Lover and Machine Learning Enthusiast 🤖 !!
+## I'm a 🎒 Student,  iOS Developer and 👨🏻‍💻 DSA Lover !!
 
 <!-- About me image -->
 <!--
@@ -12,13 +12,11 @@
 -->
 
 - 💗 to solve DSA problems on [LeetCode](https://leetcode.com/aayushkumar20/).
-- 🌱 Currently learning everything 🤣
-- 👯 I’m looking to collaborate with other machine learning and open source projects.
-- 🥅 2023-24 Goals: Improve my skills and make some amazing iOS Apps.
+- 👯 I’m looking to collaborate to create amazing iOS Apps.
+- 🥅 2023-24 Goals: Improve my skills and Practice DSA Daily.
 - 💻 Learning something new everyday.
-- 🔭 Looking for ML and Deep Learning projects.
 - Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and :coffee: lover. 
-- 5 '🌟' Python, C and C++ coder at [HackerEarth](https://www.hackerearth.com/@aayushkumarjsr1).
+- 4 '🌟' at LeetCode.
 - Kaggle [Dataset](https://www.kaggle.com/aayushkumar20bcy) solver.
 - VIT BHOPAL '24
 <br>
@@ -31,8 +29,6 @@
 - Linux :computer:
 - Open source :octocat:
 - Raspberry Pi 🖥️
-- Crypto Mining ⛏
-- Machine learning 🦾
 
 <!--
 ## Connnect with me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
