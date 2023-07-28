@@ -223,7 +223,7 @@ class CSE_Student:
         self.name       = "Aayush Kumar"
         self.role       = "Student"
         self.contact    = "aayushkumarjsr16@protonmail.com"
-        self.work       = "I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!"
+        self.work       = "I'm a Student, iOS Developer and DSA enthusiast!!"
         self.learning   = "iOS Development"
         
     
