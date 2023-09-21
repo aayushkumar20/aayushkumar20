@@ -14,7 +14,7 @@
 - 💗 to solve DSA problems on [LeetCode](https://leetcode.com/aayushkumar20/).
 - 👯 I’m looking to collaborate to create amazing iOS Apps.
 - 🥅 2023-24 Goals: Improve my skills and Practice DSA Daily.
-- 💻 Learning something new everyday.
+- 💻 Learning something new every day.
 - Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and :coffee: lover. 
 - 4 '🌟' at LeetCode.
 - Kaggle [Dataset](https://www.kaggle.com/aayushkumar20bcy) solver.
@@ -24,7 +24,7 @@
 
 ## Things I am passionate about <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">.
 
-- IOT :robot:
+- IoT :robot:
 - iOS Development 🍎 
 - Linux :computer:
 - Open source :octocat:
