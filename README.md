@@ -13,7 +13,7 @@
 
 - 💗 to solve DSA problems on [LeetCode](https://leetcode.com/aayushkumar20/).
 - 👯 I’m looking to collaborate to create amazing iOS Apps.
-- 🥅 2023-24 Goals: Improve my skills and Practice DSA Daily.
+- 🥅 2024-25 Goals: Improve my skills and Practice DSA Daily.
 - 💻 Learning something new every day.
 - Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and :coffee: lover. 
 - 4 '🌟' at LeetCode.
