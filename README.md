@@ -61,54 +61,54 @@
 <details>
   <summary><b>Programing languages.</b></summary>
   <br/>
-    <p align="left">
-  &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.java.com/en/" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2300599C.svg?logo=Java&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://swift.org/" target="_blank">
-     <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%232370ED.svg?logo=Swift&logoColor=white">
-   </a>
-  &emsp;
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-&emsp;
-</p>
+  <p align="left">
+    &emsp;
+    <a href="https://www.cprogramming.com/" target="_blank">
+      <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+      <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://developer.apple.com/documentation/objectivec" target="_blank">
+      <img alt="Objective-C" src="https://img.shields.io/badge/Objective--C%20-%232370ED.svg?logo=apple&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://en.wikipedia.org/wiki/Objective-C++" target="_blank">
+      <img alt="Objective-C++" src="https://img.shields.io/badge/Objective--C++%20-%2300599C.svg?logo=apple&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://developer.apple.com/metal/" target="_blank">
+      <img alt="Metal" src="https://img.shields.io/badge/Metal%20-%236E6E6E.svg?logo=apple&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://swift.org/" target="_blank">
+      <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%23FA7343.svg?logo=swift&logoColor=white">
+    </a>
+  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 </details>
+
 
 
 <details>
   <summary><b>Frontend development</b></summary>
-   <a href="https://www.w3.org/html/" target="_blank">
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  <br/>
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
+    <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI%20-%23000000.svg?logo=swift&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  <a href="https://developer.apple.com/documentation/uikit" target="_blank">
+    <img alt="UIKit" src="https://img.shields.io/badge/UIKit%20-%232370ED.svg?logo=apple&logoColor=white">
   </a>
-   &emsp;
-   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-   &emsp;
-
+  &emsp;
+  <a href="https://developer.android.com/develop/ui/xml" target="_blank">
+    <img alt="XML" src="https://img.shields.io/badge/XML%20-%23FF6600.svg?logo=xml&logoColor=white">
+  </a>
 </details>
+
 
 <details>
   <summary><b>Servers, Web Hosting and NAS based storage.</b></summary>
@@ -142,26 +142,51 @@
 
 <details>
   <summary><b>Community and version controls.</b></summary>
+  <br/>
   &emsp;
-  <a href="https://git.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"></a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
+  </a>
   &emsp;
-  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
+  </a>
   &emsp;
-  <a href=""><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"></a>
+  <a href="https://bitbucket.org/" target="_blank">
+    <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket">
+  </a>
   &emsp;
+  <a href="https://about.gitlab.com/" target="_blank">
+    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab">
+  </a>
+  &emsp;
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img alt="Jira" src="https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira">
+  </a>
+  &emsp;
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
+  </a>
 </details>
+
 
 <details>
   <summary><b>IDEs.</b></summary>
+  <br/>
   &emsp;
- <a href="https://code.visualstudio.com/"><img alt="Visual studio code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
+  <a href="https://developer.apple.com/xcode/" target="_blank">
+    <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode&logoColor=007ACC">
+  </a>
   &emsp;
- <a href="https://visualstudio.microsoft.com/"><img alt="Visual studio" src="https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC"></a>
+  <a href="https://www.cursor.sh/" target="_blank">
+    <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor&logoColor=white">
+  </a>
   &emsp;
-  <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCham" src="https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC"></a>
-
-
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84">
+  </a>
 </details>
+
 
 <details>
   <summary><b>Operating Systems</b></summary>
